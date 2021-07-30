@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    <string name="finish">FINISH</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="next">GO TO NEXT QUESTION</string>
+    <string name="d">FINISH</string>
+    <string name="submit">SUBMIT</string>
+    <string name="image">image</string>
+    <string name="result">Result</string>
+</resources>
